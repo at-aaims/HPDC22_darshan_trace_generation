@@ -14,7 +14,7 @@ The list of data sets (scale-1, scale-2, and scale-3) and selected application n
      1  | cholla.paris-cuda
      2  | hacc_p3m
      3  | lbpm_random_force_simulator
-     4  | main_parallel
+     4  | lalibe
      5  | nekrs
      6  | ramses3d
      7  | sigma.cplx.x
